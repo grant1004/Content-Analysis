@@ -235,7 +235,7 @@ Nday：討論天數
 詞類：名詞\(n\)
 
 # 4.1 文字雲
-![](.png)
+![](wordcloud.png)
 <span style="color:#002060">可以看到左圖</span>  <span style="color:#002060"> __「老闆」「薪水」__ </span>  <span style="color:#002060">字形最大，</span>  <span style="color:#002060">是出現次數最多的單字，是在巴哈姆特討論最熱絡的主題。</span>
 
 可以看到右圖可以大致分成三類，第一類是和 _人際關係：_  <span style="color:#002060"> __ __ </span>  _「老闆」 「同事」 「主管」_ 第二類是和 _薪水工時：_  <span style="color:#002060"> __ __ </span>  _「薪水」 「時間」 _ 第三類是和 _專業能力：_  <span style="color:#002060"> __ __ </span>  _「經驗」 「能力」_
