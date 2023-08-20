@@ -7,7 +7,7 @@ __[前言](#前言)__
 
 __[數據來源](#數據來源)__ 
 
-__[1\.巴哈姆特-職場甘苦談100頁貼文數據](https://github.com/grant1004/Content-Analysis/blob/main/README.md#1%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9-%E8%81%B7%E5%A0%B4%E7%94%98%E8%8B%A6%E8%AB%87100%E9%A0%81%E8%B2%BC%E6%96%87%E6%95%B8%E6%93%9A)__
+__[1 \. 巴哈姆特-職場甘苦談100頁貼文數據](https://github.com/grant1004/Content-Analysis/blob/main/README.md#1%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9-%E8%81%B7%E5%A0%B4%E7%94%98%E8%8B%A6%E8%AB%87100%E9%A0%81%E8%B2%BC%E6%96%87%E6%95%B8%E6%93%9A)__
 
 __[2](slide8.xml)__  __[\.](slide8.xml)__  __[ ](slide8.xml)__  __[作者價值模型](slide8.xml)__  __  __  __ __  __8__
 
