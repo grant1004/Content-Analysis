@@ -16,11 +16,10 @@ __[2 . 作者價值模型](https://github.com/grant1004/Content-Analysis/blob/ma
 __[3 .主題價值模型](https://github.com/grant1004/Content-Analysis/blob/main/README.md#3-%E4%B8%BB%E9%A1%8C%E5%83%B9%E5%80%BC%E6%A8%A1%E5%9E%8B)__
 
 
-__[4\.](slide16.xml)__  __[文本分析](slide16.xml)__  __ __  __ __  __16__
-  * _[4\.1 ](slide17.xml)_  _[文字雲](slide17.xml)_  __[ ](slide17.xml)__  __ __  __18__
-  * __[4\.2 ](slide18.xml)__  __[巴哈風向圖 ](slide18.xml)__  __ __  __       __  __19__
-  * __[4\.3](slide19.xml)__  __[ 知識結構  ](slide19.xml)__  __ __  __ __  __18__
-
+__[4 \. 文本分析](https://github.com/grant1004/Content-Analysis/blob/main/README.md#4-%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90)__
+  * __[4\.1 文字雲](slide17.xml)__
+  * __[4\.2 巴哈風向圖 ](slide18.xml)__
+  * __[4\.3 知識結構  ](slide19.xml)__
 
 __[總結](slide20.xml)__  __ __  __ __  __    __  __20__
 
