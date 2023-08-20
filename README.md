@@ -21,7 +21,7 @@ __[4 \. 文本分析](https://github.com/grant1004/Content-Analysis/blob/main/RE
   * __[4\.2 巴哈風向圖 ](https://github.com/grant1004/Content-Analysis/blob/main/README.md#42-%E5%B7%B4%E5%93%88%E9%A2%A8%E5%90%91%E5%9C%96)__
   * __[4\.3 知識結構  ](https://github.com/grant1004/Content-Analysis/blob/main/README.md#43-%E7%9F%A5%E8%AD%98%E7%B5%90%E6%A7%8B)__
 
-__[總結](slide20.xml)__  __ __  __ __  __    __  __20__
+__[總結](https://github.com/grant1004/Content-Analysis/blob/main/README.md#%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9-%E8%81%B7%E5%A0%B4%E7%94%98%E8%8B%A6%E8%AB%87%E7%89%88-%E7%B8%BD%E7%B5%90)__
 
 # 前言
 
