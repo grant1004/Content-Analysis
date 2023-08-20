@@ -19,7 +19,7 @@ __[3 .主題價值模型](https://github.com/grant1004/Content-Analysis/blob/mai
 __[4 \. 文本分析](https://github.com/grant1004/Content-Analysis/blob/main/README.md#4-%E6%96%87%E6%9C%AC%E5%88%86%E6%9E%90)__
   * __[4\.1 文字雲](https://github.com/grant1004/Content-Analysis/blob/main/README.md#41-%E6%96%87%E5%AD%97%E9%9B%B2)__
   * __[4\.2 巴哈風向圖 ](https://github.com/grant1004/Content-Analysis/blob/main/README.md#42-%E5%B7%B4%E5%93%88%E9%A2%A8%E5%90%91%E5%9C%96)__
-  * __[4\.3 知識結構  ](slide19.xml)__
+  * __[4\.3 知識結構  ](https://github.com/grant1004/Content-Analysis/blob/main/README.md#43-%E7%9F%A5%E8%AD%98%E7%B5%90%E6%A7%8B)__
 
 __[總結](slide20.xml)__  __ __  __ __  __    __  __20__
 
