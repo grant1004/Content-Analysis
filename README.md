@@ -235,17 +235,15 @@ Nday：討論天數
 
 # 4.1 文字雲
 ![](wordcloud.png)
-<span style="color:#002060">可以看到左圖</span>  <span style="color:#002060"> __「老闆」「薪水」__ </span>  <span style="color:#002060">字形最大，</span>  <span style="color:#002060">是出現次數最多的單字，是在巴哈姆特討論最熱絡的主題。</span>
 
-可以看到右圖可以大致分成三類，
+<span style="color:#002060">1. 可以看到左圖</span>  <span style="color:#002060"> __「老闆」「薪水」__ </span>  <span style="color:#002060">字形最大，</span>  <span style="color:#002060">是出現次數最多的單字，是在巴哈姆特討論最熱絡的主題。</span>
+2. 可以看到右圖可以大致分成三類，
 
-第一類是和 __人際關係：__  <span style="color:#002060">  </span>  __「老闆」 「同事」 「主管」__ 
+* 第一類是和 __人際關係：__  <span style="color:#002060">  </span>  __「老闆」 「同事」 「主管」__ 
+* 第二類是和 __薪水工時：__  <span style="color:#002060"> </span>  __「薪水」 「時間」__
+* 第三類是和 __專業能力：__  <span style="color:#002060"> </span>  __「經驗」 「能力」__
 
-第二類是和 __薪水工時：__  <span style="color:#002060"> </span>  __「薪水」 「時間」__ 
-
-第三類是和 __專業能力：__  <span style="color:#002060"> </span>  __「經驗」 「能力」__
-
-<span style="color:#003300"> __可以看到工程師是唯一有出現在前__ </span>  <span style="color:#003300"> __30__ </span>  <span style="color:#003300"> __個字的職業，代表工程師這個職業的討論度在這十年來是很多人討論的。__ </span>
+<span style="color:#003300"> 3. 可以看到工程師是唯一有出現在前 </span>  <span style="color:#003300"> __30__ </span>  <span style="color:#003300"> __個字的職業，代表工程師這個職業的討論度在這十年來是很多人討論的。__ </span>
 
 # 4.2 巴哈風向圖
 
